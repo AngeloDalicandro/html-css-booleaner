@@ -1,0 +1,149 @@
+/* reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+/* container */
+
+.container {
+    
+    width: 80%;
+    margin: auto;
+}
+
+/* section */
+
+section {
+
+    margin-top: 50px;
+}
+
+/* header */
+
+header {
+
+    background-image: url('../img/pattern.png');
+    background-color: #ffb54e;
+    height: 175px;
+    
+}
+
+.container-h {
+    width: 95%;
+    margin: auto;
+}
+
+#logo {
+
+    width: 250px;
+    margin-top: 100px;
+   
+}
+
+/* main */
+
+/* titolo */
+
+h1 {
+    
+    font-weight: 900;
+    font-size:350%;
+}
+
+.info {
+
+color: gray;
+font-weight:600;
+font-size: large;
+}
+
+.booleaner {
+
+    color: #e58627;
+}
+
+.date {
+
+    font-size: smaller;
+}
+
+/* images */
+
+.images {
+
+    height: 510px;
+    width: auto;
+}
+
+.images-description {
+
+    font-size: smaller;
+}
+
+/* contents */
+
+.contents {
+
+    font-weight: 600;
+}
+
+/* table */
+
+table {
+
+    width: 100%;
+}
+
+thead {
+
+    background-color: #e58620;
+    color: white;
+}
+
+.last-column {
+
+    width: 50%;
+}
+
+.odd {
+
+    background-color: #f2e1b1;
+}
+
+/* contents2 */
+
+.highlighted {
+    
+    background-color:#20a9e5;
+}
+
+/* footer */
+
+h2 {
+
+    color: grey;
+    margin-top: 50px;
+}
+
+#ad-1 {
+
+    color: white;
+    font-weight: 800;
+    font-size:xx-large;
+    background-image: url('../img/monitor.jpg');
+    height: 250px;
+    background-repeat: no-repeat;
+}
+
+#ad-2 {
+
+    color: white;
+    font-weight: 800;
+    font-size:xx-large;
+    background-image: url('../img/graph.jpg');
+    height: 250px;
+    background-repeat: no-repeat;
+}

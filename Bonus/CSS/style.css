@@ -12,6 +12,7 @@
     
     width: 80%;
     margin: auto;
+    text-align: center;
 }
 
 /* section */
@@ -133,9 +134,11 @@ h2 {
     color: white;
     font-weight: 800;
     font-size:xx-large;
+    padding: 20px;
     background-image: url('../img/monitor.jpg');
     height: 250px;
     background-repeat: no-repeat;
+    background-position: center;
 }
 
 #ad-2 {
@@ -143,7 +146,9 @@ h2 {
     color: white;
     font-weight: 800;
     font-size:xx-large;
+    padding: 20px;
     background-image: url('../img/graph.jpg');
     height: 250px;
     background-repeat: no-repeat;
+    background-position: center;
 }

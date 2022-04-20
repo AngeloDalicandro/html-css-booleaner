@@ -113,4 +113,30 @@ thead {
     background-color: yellow;
 }
 
+/* footer */
 
+h2 {
+
+    color: grey;
+    margin-top: 50px;
+}
+
+#ad-1 {
+
+    color: white;
+    font-weight: 800;
+    font-size:xx-large;
+    background-image: url('../img/monitor.jpg');
+    height: 250px;
+    background-repeat: no-repeat;
+}
+
+#ad-2 {
+
+    color: white;
+    font-weight: 800;
+    font-size:xx-large;
+    background-image: url('../img/graph.jpg');
+    height: 250px;
+    background-repeat: no-repeat;
+}

@@ -29,3 +29,32 @@ img {
     margin-top: 100px;
     
 }
+
+/* main */
+
+/* titolo */
+
+h1 {
+    
+    font-weight: 900;
+    font-size:350%;
+
+}
+
+.info {
+
+color: gray;
+font-weight:600;
+font-size: large;
+
+}
+
+.highlighted {
+
+    color: #3db3e7;
+}
+
+.date {
+
+    font-size: smaller;
+}

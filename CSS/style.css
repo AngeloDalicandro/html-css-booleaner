@@ -23,7 +23,7 @@ header {
 
 }
 
-img {
+#logo {
 
     width: 250px;
     margin-top: 100px;
@@ -58,3 +58,19 @@ font-size: large;
 
     font-size: smaller;
 }
+
+/* images */
+
+.images {
+
+    height: 510px;
+    width: auto;
+    margin-top: 50px;
+}
+
+.images-description {
+
+    font-size: smaller;
+
+}
+
